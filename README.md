@@ -1,8 +1,8 @@
 # Peace Partner
-Peace Partner is a platform for connecting refugees in need with individuals, communities, and organizations who want to help. 
+Peace Partner is a platform for connecting refugees in need with individuals, communities, and organizations who want to help meet those needs.
 
 # Background
-We started this project to meet an urgent need for assistance
+We started this project to meet an urgent need for assistance for tens of thousands of Ukrainian civilians fleeing war.
 
 # Contributing
 Check out our contributing guidelines for ways to offer feedback and contribute.
